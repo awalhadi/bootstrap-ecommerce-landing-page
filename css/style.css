@@ -1,0 +1,35 @@
+.pcommerce-band {
+  margin-left: 12px;
+}
+
+.category img{
+  width: 30%;
+}
+.card-custom{
+  border: none;
+}
+.card-custom .custom-card-footer{
+  border-top: none;
+  background-color: white;
+}
+
+.subscription-section{
+  background-color: #fceae8;
+  height: 17em;
+}
+
+.custom-banner{
+  background-color: #FEEAE9;
+  border-radius: 14px;
+  padding: 30px;
+   margin-top: 96px;
+}
+
+.margin-bottom{
+  margin-bottom: 100px;
+}
+
+/* custom shadow */
+.custom-shadow{
+  box-shadow: 5px 5px 14px gray;
+}
